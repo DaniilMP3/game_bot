@@ -5,3 +5,4 @@ stats.json
 __pycache__
 10000-russian-words.txt
 start.bat
+.gitignore
